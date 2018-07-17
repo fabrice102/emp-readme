@@ -1,4 +1,4 @@
-git clone https://github.com/emp-toolkit/emp-readme.git
+git clone -b carbuy https://github.com/fabrice102/emp-readme.git
 bash ./emp-readme/scripts/install_packages.sh
 bash ./emp-readme/scripts/install_relic.sh
 bash ./emp-readme/scripts/install_emp-tool.sh
